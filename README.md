@@ -72,27 +72,11 @@ Various SAST and DAST tools
 
 SAST tools:
 
-SonarQube -> Support many languages.
-
-Checkmarx -> It also support multiple language.
-
-Veracode    -> Cloud base platform.
-
-Codacy        -> Provide report with GitHub.
-
-Brakeman -> Specific for Ruby on Rail framework.
+SonarQube -> Support many languages , Checkmarx -> It also support multiple language , Veracode  -> Cloud base platform , Codacy -> Provide report with GitHub , Brakeman -> Specific for Ruby on Rail framework.
 
 DAST tools:
 
-Owasp ZAP -> Supports automated and manual scanning.
-
-Burp suite -> Offers tools like Intruder, Scanner.
-
-Nessus  -> Detects Security issues in network etc.
-
-Snyk       -> Offers both SAST and DAST capabilities.
-
-Appscan -> Integrate with DevOps.
+Owasp ZAP -> Supports automated and manual scanning , Burp suite -> Offers tools like Intruder and Scanner , Nessus  -> Detects Security issues in network etc , Snyk -> Offers both SAST and DAST capabilities , Appscan -> Integrate with DevOps.
 
 Topic 4 : How to Secure Web Application Efficiently
 
